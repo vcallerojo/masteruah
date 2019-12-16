@@ -5,3 +5,10 @@
 	$ git push -u origin master
 	$ git clone  https://github.com/vcallerojo/masteruah.git
 	$ git status
+	
+	
+	#Compañeros de clase:
+	##NOMBRE				##GITHUB
+	###Fernando Zamora
+	###Federico Abait
+	###Ruben Baquel
